@@ -1,5 +1,5 @@
 # downlifter
-Download unlimited NFTs from IPFS QUICK & EASY, 
+I havent seen anything new created for this since Rightclick.py doesnt seem to work any longer here is a simple method to Download unlimited NFTs from IPFS QUICK & EASY, 
 
 You will need to get the IPFS URI from Etherscan by viewing the contract, for example the Bored Ape URI is set
 To get this URI Simply find the Etherscan, click CONTRACT, find the URI and that will be what you paste into the 
