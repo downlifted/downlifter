@@ -1,4 +1,4 @@
-# downlifter
+# downlifter - OPTION: RUN ON GOOGLE COLAB https://colab.research.google.com/drive/1nXZQpxuj2jayAxpJcro0LdV2deSPrnYL
 I havent seen anything new created for this since Rightclick.py doesnt seem to work any longer here is a simple method to Download unlimited NFTs from IPFS QUICK & EASY, 
 
 You will need to get the IPFS URI from Etherscan by viewing the contract, for example the Bored Ape URI is set
