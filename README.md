@@ -1,5 +1,6 @@
 # downlifter - OPTION: RUN ON GOOGLE COLAB https://colab.research.google.com/drive/1nXZQpxuj2jayAxpJcro0LdV2deSPrnYL
-I havent seen anything new created for this since Rightclick.py doesnt seem to work any longer here is a simple method to Download unlimited NFTs from IPFS QUICK & EASY, 
+I havent seen anything new created for this since Rightclick.py doesnt seem to work any longer here is a simple method to Download unlimited NFTs from IPFS QUICK & EASY, But there are some issues. You may need
+to work to resolve where the images are stored, Some Collections store them in a single node others do it differently so you may need to edit the script some. Reach out to me on Twitter for help @AiAnarchist
 
 You will need to get the IPFS URI from Etherscan by viewing the contract, for example the Bored Ape URI is set
 To get this URI Simply find the Etherscan, click CONTRACT, find the URI and that will be what you paste into the 
